@@ -83,9 +83,29 @@ This project aims to **optimize and automate ticket assignment** in customer sup
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ticket-assignment-optimizer.git
-   cd ticket-assignment-optimizer
+   git clone https://github.com/MSEditzeofficial/Streamlining-Ticket-Assignment-for-Efficient-Support-operations.git
 
-   python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+##  📈  Future Enhancements
+
+-  Integration with Generative AI for context-aware response suggestions
+
+-  Real-time sentiment-based routing
+
+-  Predictive load forecasting for staffing optimization
+
+-  Multilingual ticket classification
+
+##  ✍️ Authors
+
+Team Leader : Mohanraj M
+
+Team member : Nanthini A
+
+Team member : Sakthi S
+
+Team member : Sivaranjani M
+
+
+## 🏁 Conclusion
+
+  Efficient ticket assignment is the backbone of a responsive and scalable support operation. By combining automation, intelligent routing, and data-driven insights, this system not only reduces manual workload but also enhances customer satisfaction and team productivity. As support demands continue to grow, leveraging smart ticket management solutions like this ensures that every customer receives timely, accurate, and personalized assistance — turning support operations into a true strategic advantage.
